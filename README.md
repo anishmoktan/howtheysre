@@ -289,6 +289,22 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 </details>
 
 <details>
+  <summary>GitLab</summary>
+
+#### Blog Posts
+* [This SRE attempted to roll out an HAProxy config change. You won't believe what happened next...](https://about.gitlab.com/blog/2021/01/14/this-sre-attempted-to-roll-out-an-haproxy-change/)
+* [My week shadowing a GitLab Site Reliability Engineer](https://about.gitlab.com/blog/2019/12/16/sre-shadow/)
+* [Update: Elasticsearch lessons learnt for Advanced Global Search](https://about.gitlab.com/blog/2020/04/28/elasticsearch-update/)
+* [Lessons in iteration from a new team in infrastructure](https://about.gitlab.com/blog/2020/11/09/lessons-in-iteration-from-new-infrastructure-team/)
+* [How we optimized infrastructure spend at GitLab](https://about.gitlab.com/blog/2020/10/27/how-we-optimized-our-infrastructure-spend-at-gitlab/)
+* [How we scaled async workload processing at GitLab.com using Sidekiq](https://about.gitlab.com/blog/2020/06/24/scaling-our-use-of-sidekiq/)
+* [Inside GitLab: How we release software patches](https://about.gitlab.com/blog/2020/05/13/how-we-release-software-patches/)
+* [What tracking down missing TCP Keepalives taught me about Docker, Golang, and GitLab](https://about.gitlab.com/blog/2019/11/15/tracking-down-missing-tcp-keepalives/)
+* [How we used delayed replication for disaster recovery with PostgreSQL](https://about.gitlab.com/blog/2019/02/13/delayed-replication-for-disaster-recovery-with-postgresql/)
+
+</details>
+
+<details>
   <summary>GoCardless</summary>
 
 #### Blog Posts
@@ -415,7 +431,9 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
   <summary>LinkedIn</summary>
 
 #### Blog Posts
+* [Insights into a Product SRE team at LinkedIn](https://www.linkedin.com/pulse/insights-product-sre-team-linkedin-zaina-afoulki/?trackingId=mxKJgZ3kp8l2WI9D4UZv7Q%3D%3D)
 * [Open source update: School of SRE](https://engineering.linkedin.com/blog/2021/open-source-update--school-of-sre)
+* [Fixing Linux filesystem performance regressions](https://engineering.linkedin.com/blog/2020/fixing-linux-filesystem-performance-regressions)
 * [Production testing with dark canaries](https://engineering.linkedin.com/blog/2020/production-testing-with-dark-canaries)
 * [Smart alerts in ThirdEye, LinkedIn’s real-time monitoring platform](https://engineering.linkedin.com/blog/2019/06/smart-alerts-in-thirdeye--linkedins-real-time-monitoring-platfor)
 * [Iris mobile: An open source, mobile interface for incident management](https://engineering.linkedin.com/blog/2019/05/iris-mobile--an-open-source--mobile-interface-for-incident-manag)
@@ -528,6 +546,7 @@ _Note to readers: This list refers to some of the articles, posts, videos, tools
 * [Post-mortem of October 22, 2012 AWS degradation](https://netflixtechblog.com/post-mortem-of-october-22-2012-aws-degradation-efcee3ab40d5)
   
 #### Videos
+* [AWS re:Invent 2019: A day in the life of a Netflix engineer (NFX202)](https://www.youtube.com/watch?v=0QS1TWLooo0)
 * [When /bin/sh Attacks: Revisiting "Automate All the Things"](https://www.usenix.org/conference/srecon20americas/presentation/reed)
 * [How Did Things Go Right? Learning More from Incidents](https://www.usenix.org/conference/srecon19americas/presentation/kitchens)
 * [Monitoring and Tracing @Netflix Streaming Data Infrastructure](https://www.youtube.com/watch?v=DlWYNoLmma8)
